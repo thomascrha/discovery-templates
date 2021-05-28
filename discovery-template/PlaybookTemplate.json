@@ -1,0 +1,22 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "ce00357f-3ce2-490e-9a06-5e684e666f3a",
+    "TemplateName": "discovery template",
+    "Description": "kasmdksamd",
+    "TemplateType": 4,
+    "TemplateAuthor": "tester",
+    "ReleaseDateVersion": "05/28/2021 04:07:04",
+    "TemplateFolderPath": "/tmp/rapid/repo/discovery-templates/discovery-template",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "tester",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "05/28/2021 04:07:04",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null,
+    "UseLocalZone": false
+  }
+}
